@@ -1,7 +1,7 @@
 {
   "name": "reactjs-basics",
   "version": "1.0.0",
-  "homepage": "http://anmol2302.github.io/react-enviroment-configuration-code",
+  "homepage": "http://anmol2302.github.io/react-gh-pages",
   "description": "Some basic ReactJS production and development enviroment configurations",
   "main": "index.js",
   "scripts": {
