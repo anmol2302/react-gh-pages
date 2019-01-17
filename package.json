@@ -5,7 +5,6 @@
   "description": "Some basic ReactJS production and development enviroment configurations",
   "main": "index.js",
   "scripts": {
-    "watch": "webpack --watch",
     "build:prod": "webpack -p",
     "build": "webpack-dev-server --open --config webpack.dev.js",
     "predeploy": "npm run build",
